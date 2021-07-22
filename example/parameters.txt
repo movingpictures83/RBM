@@ -1,0 +1,4 @@
+training	plugins/RBM/example/train.csv
+iterations	1000
+hidden	100
+minibatch	10

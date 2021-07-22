@@ -1,0 +1,2 @@
+Prefix plugins/RBM/example/
+Plugin RBM inputfile parameters.txt outputfile weights.csv
